@@ -1,4 +1,4 @@
-# PHPExercice
+# PHP Exercice
 
 Este repositorio contiene ejercicios básicos en PHP para practicar conceptos fundamentales del lenguaje, incluyendo variables, estructuras de control, funciones y manejo de formularios.
 
